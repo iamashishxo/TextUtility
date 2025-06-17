@@ -10,6 +10,14 @@ function App() {
 <div className="container">
 <TextForm heading = "Enter the Text to Analyze"/>
 </div>
+<div>
+<footer className="footer">
+  Made by Ashish
+</footer>
+</div>
+
+
+
 
     </>
   );
